@@ -1,3 +1,5 @@
+![Physical AI data capture across urban and industrial environments](./max-insights-header.png)
+
 # Max Insights
 
 [Max Insights](https://www.maxinsights.ai/) is building the data foundation for Physical AI. The company focuses on collecting and delivering high-quality data through a global capture network.
@@ -52,6 +54,7 @@ This repository currently contains a small collection of visual assets:
 | `hannotation.svg` | SVG | Hand annotation icon |
 | `hdash.png` | PNG | HDash dashboard graphic at 1024 x 1024 |
 | `hdash1.jpg` | JPEG | HDash dashboard graphic at 832 x 680 |
+| `max-insights-header.png` | PNG | Physical AI data capture banner at 1983 x 793 |
 | `zdash.svg` | SVG | Orange ZDash mark |
 
 ## Project status
