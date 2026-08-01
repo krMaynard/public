@@ -26,6 +26,27 @@ Max Insights works with research partners at:
 
 This repository currently contains a small collection of visual assets:
 
+### Asset previews
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="./hdash.png" alt="HDash dashboard graphic in PNG format" width="360"></td>
+    <td align="center" width="50%"><img src="./hdash1.jpg" alt="HDash dashboard graphic in JPEG format" width="360"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>hdash.png</code></td>
+    <td align="center"><code>hdash1.jpg</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./hannotation.svg" alt="Blue raised-hand icon" width="96"></td>
+    <td align="center"><img src="./zdash.svg" alt="Orange geometric ZDash mark" width="96"></td>
+  </tr>
+  <tr>
+    <td align="center"><code>hannotation.svg</code></td>
+    <td align="center"><code>zdash.svg</code></td>
+  </tr>
+</table>
+
 | File | Format | Description |
 | --- | --- | --- |
 | `hannotation.svg` | SVG | Hand annotation icon |
