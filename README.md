@@ -12,7 +12,7 @@ Max Insights aims to make high-quality Physical AI data available at global scal
 - **Scalable delivery:** An approach designed to deliver data at global scale.
 - **Data quality:** A focus on high-quality data while reducing manual work.
 
-The Max Insights website highlights team experience spanning Bosch, Google, Meta, X's Moonshot Factory, DeepMap, Momenta, NIO, QCraft, TuSimple, and Waymo.
+Our team brings experience from Bosch, Google, Meta, X's Moonshot Factory, DeepMap, Momenta, NIO, QCraft, TuSimple, and Waymo.
 
 ## Research partners
 
