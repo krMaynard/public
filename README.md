@@ -1,12 +1,12 @@
 ![Physical AI data capture across urban and industrial environments](./max-insights-header.png)
 
-# Max Insights
+# Maxinsights
 
-[Max Insights](https://www.maxinsights.ai/) is building the data foundation for Physical AI. The company focuses on collecting and delivering high-quality data through a global capture network.
+[Maxinsights](https://www.maxinsights.ai/) is building the data foundation for Physical AI. The company focuses on collecting and delivering high-quality data through a global capture network.
 
 ## Mission
 
-Max Insights aims to make high-quality Physical AI data available at global scale. Its approach centers on three priorities:
+Maxinsights aims to make high-quality Physical AI data available at global scale. Its approach centers on three priorities:
 
 - **Global capture:** A worldwide network for collecting data across locations.
 - **Scalable delivery:** An approach designed to deliver data at global scale.
@@ -16,7 +16,7 @@ Our team brings experience from Bosch, Google, Meta, X's Moonshot Factory, DeepM
 
 ## Research partners
 
-Max Insights works with research partners at:
+Maxinsights works with research partners at:
 
 - Stanford University
 - University of California, Los Angeles
@@ -64,4 +64,4 @@ This is an early public repository. More project material and documentation will
 ## Learn more
 
 - Visit [maxinsights.ai](https://www.maxinsights.ai/) for company information.
-- Use the early-access form on the website to contact Max Insights about access.
+- Use the early-access form on the website to contact Maxinsights about access.
